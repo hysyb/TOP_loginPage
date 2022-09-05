@@ -30,8 +30,6 @@ body {
 #form {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    width: 100%;
-
 }
 .form {
     -webkit-box-shadow: 0px 4px 10px -2px #000000; 
@@ -42,13 +40,14 @@ body {
     font-size: 18px;
     padding-bottom: 1rem;
 }
-#confirmPassword {
-    padding-bottom: 5%;
-}
+
 label {
     font-size: 14px;
 }
-input {
+input{
+    height: 1rem;
+}
+#confirmPassword{
     height: 1rem;
 }
 .footer {
