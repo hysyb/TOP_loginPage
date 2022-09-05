@@ -26,7 +26,7 @@ body {
 }
 #form {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
 }
 #confirmPassword {
     padding-bottom: 5%;
