@@ -47,8 +47,8 @@ label {
 input{
     height: 1rem;
 }
-#confirmPassword{
-    height: 1rem;
+button {
+    margin-top: 1rem;
 }
 .footer {
     padding:2rem 0 0 2rem;
